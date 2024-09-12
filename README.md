@@ -1,5 +1,14 @@
 # OrderAnalytics
 
+## Struktur Folder
+- `/data`: Folder untuk menyimpan data penjualan dan data pelanggan.
+- `/assets`: Folder untuk menyimpan screenshot atau file CSV yang diperlukan.
+- `/scripts`: Folder yang berisi kode atau script yang digunakan untuk melakukan analisis.
+
+## Penggunaan
+1. Pastikan data penjualan tahun 2021 dan 2022 tersedia dalam folder `/data`.
+2. Gunakan script yang disimpan dalam folder `/scripts` untuk menjalankan analisis sesuai permintaan.
+3. Simpan hasil analisis dalam format CSV dan kirimkan sesuai dengan deadline yang diberikan oleh masing-masing tim.
 ## Dear Data Analyst
 
 Akhir tahun ini, perusahaan akan memberikan hadiah bagi pelanggan yang memenangkan **Kompetisi Festival Akhir Tahun**. Tim Marketing membutuhkan bantuan untuk menentukan perkiraan hadiah yang akan diberikan kepada pemenang kompetisi tersebut.
