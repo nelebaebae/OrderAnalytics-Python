@@ -1,6 +1,6 @@
 # OrderAnalytics
 
-## Dear Data Analyst,
+## Dear Data Analyst
 
 Akhir tahun ini, perusahaan akan memberikan hadiah bagi pelanggan yang memenangkan **Kompetisi Festival Akhir Tahun**. Tim Marketing membutuhkan bantuan untuk menentukan perkiraan hadiah yang akan diberikan kepada pemenang kompetisi tersebut.
 
@@ -15,8 +15,7 @@ Atas bantuan yang diberikan, kami mengucapkan terima kasih.
 Tim Marketing
 
 ---
-
-![Screenshot](Assets/Screenshot%202024-09-12%20204600.png)
+![Screenshot](Assets/Screenshot_2024-09-12_204600.png)
 
 
 ## Dear Data Analyst
@@ -35,7 +34,9 @@ Atas bantuan yang diberikan, kami mengucapkan terima kasih.
 **Best regards,**  
 **Tim Warehouse**
 
-![Screenshot](Assets/
+![Screenshot](Assets/Screenshot_2024-09-12_205737.png)
+---
+![Screenshot](Assets/Screenshot_2024-09-12_205858.png)
 
 ## Dear Data Analyst,
 
@@ -52,7 +53,9 @@ Atas bantuan yang diberikan, kami mengucapkan terima kasih.
 **Best regards,**  
 **Tim Digital Marketing**
 
-![Screenshot](Assets/
+![Screenshot](Assets/Screenshot_2024-09-12_210707.png)
+---
+Hasil : ![Audience_List.csv](Assets/audience_list.csv)
 
 ## Dear Data Analyst,
 
@@ -69,4 +72,6 @@ Atas bantuan yang diberikan, kami mengucapkan terima kasih.
 **Best regards,**  
 **Tim Campaign**
 
-![Screenshot](Assets/
+![Screenshot](Assets/Screenshot_2024-09-12_211357.png)
+---
+![Screenshot](Assets/Screenshot_2024-09-12_211658.png)
